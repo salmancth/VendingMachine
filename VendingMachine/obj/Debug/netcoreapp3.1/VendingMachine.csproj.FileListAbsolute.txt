@@ -1,0 +1,14 @@
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.AssemblyReference.cache
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\salma\Source\Repos\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache
